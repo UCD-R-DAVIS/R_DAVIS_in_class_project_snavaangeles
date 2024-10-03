@@ -26,3 +26,8 @@ log_of_word <- log("a_word")
 elephant1_kg <-3492
 rm(elephant2_lb)
 elephant1_lb <-7757
+rm(elephant1_lb)
+elephant2_lb <- 7757
+elephant1_lb <- elephant1_kg * 2.2
+elephant1_lb > elephant2_lb
+elephant1_lb < elephant2_lb
